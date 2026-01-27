@@ -287,13 +287,13 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv5/index.m3u8
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv7.png" group-title="XemTV",SCTV7
 https://liveh34.seenow.vn/hls/SCTV7/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv8.png" group-title="XemTV",Kênh SCTV8 - Kênh thị trường, kinh tế,tài chính
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv8.png" group-title="XemTV",Kênh SCTV8
 https://liveh34.seenow.vn/hls/SCTV8/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv9.png" group-title="XemTV",SCTV9
 https://liveh34.seenow.vn/hls/SCTV9/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv10.png" group-title="XemTV",SCTV10
 https://liveh34.seenow.vn/hls/SCTV10/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv11.png" group-title="XemTV",SCTV11 - Kênh văn hoá,nghệ thuật & giải trí tổng hợp
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv11.png" group-title="XemTV",SCTV11
 https://liveh34.seenow.vn/hls/SCTV11/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv12.png" group-title="XemTV",SCTV12
 https://liveh34.seenow.vn/hls/SCTV12/index.m3u8
@@ -305,11 +305,11 @@ https://liveh34.seenow.vn/hls/SCTV14/index.m3u8
 https://liveh34.seenow.vn/hls/SCTV16/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv18.png" group-title="XemTV",SCTV18
 https://liveh34.seenow.vn/hls/SCTV18/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv19-hd.png" group-title="XemTV",SCTV19- Kênh Thiếu nhi đặc sắc
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv19-hd.png" group-title="XemTV",SCTV19
 https://liveh34.seenow.vn/hls/SCTV19/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv20-hd.png" group-title="XemTV",SCTV20- Kênh Âm nhạc tương tác
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv20-hd.png" group-title="XemTV",SCTV20
 https://liveh34.seenow.vn/hls/SCTV20/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv21.jpg" group-title="XemTV",Kênh SCTV21 - Kênh Việt Nam ký ức về Văn Hóa,Lịch sử
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv21.jpg" group-title="XemTV",Kênh SCTV21
 https://liveh34.seenow.vn/hls/SCTV21/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/sctv-hd.png" group-title="XemTV",SCTV Phim Tổng hợp
 https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
@@ -1180,7 +1180,7 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nfl.png" group-title="XemTV",NFL Sports
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/fight-sports.png" group-title="XemTV",Kênh Fight Sports - MMA, Boxing, Kickboxing,Martial Arts
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/fight-sports.png" group-title="XemTV",Kênh Fight Sports
 https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/fite.png" group-title="XemTV",Fite Sports
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
@@ -1196,3 +1196,4 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/strongman.jpg" group-title="XemTV",Strong Man TV
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+
